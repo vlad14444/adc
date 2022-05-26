@@ -1,1 +1,10 @@
-.logo
+:root{
+    --prinary-color: #212121;
+    --text-color: #757575;
+    --secondary-color:#FFFFFF;
+    --secondary-link-color:rgba(255, 255, 255, 0.6);
+}
+ .logo{
+     color:#000000;
+ }
+
